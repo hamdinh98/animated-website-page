@@ -21,6 +21,10 @@
     align-items: center;
 }
 
+p {
+    float: center;
+}
+
 .logo {
     grid-column: 2/3;
     font-size: 50px;
